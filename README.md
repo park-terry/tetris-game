@@ -1,1 +1,1 @@
-# tetris-game
+# Tetris game built using C
